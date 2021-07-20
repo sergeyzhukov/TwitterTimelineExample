@@ -20,7 +20,7 @@
     "oauth-1.0a": "^2.2.6",
     "querystring": "^0.2.0",
     "react": "16.13.1",
-    "react-native": "0.63.0",
+    "react-native": "0.64.1",
     "react-native-fast-image": "^8.3.2",
     "react-native-gesture-handler": "^1.7.0",
     "react-native-login-twitter": "^3.0.2",
